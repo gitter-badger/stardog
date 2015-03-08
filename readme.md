@@ -11,6 +11,8 @@
 
 Credits
 ===
+
+[![Join the chat at https://gitter.im/aaps/stardog](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aaps/stardog?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Stardog, by 
 * Shanti Pothapragada: rgbdreamer@gmail.com
 * Alexis Diomedi
